@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Chrome Startup",
+    "description": "Chrome Startup",
+    "version": "1.0",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+}
