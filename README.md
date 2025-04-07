@@ -5,6 +5,7 @@ npm i
 - create file input.css then embeded this code @import "tailwindcss";
 - npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 then import ouput.css file to popup.html
+```
     <!doctype html>
         <html>
         <head>
@@ -18,3 +19,4 @@ then import ouput.css file to popup.html
         </h1>
         </body>
     </html>
+```
